@@ -34,6 +34,7 @@ plugins:
   - removeNonInheritableGroupAttrs
   - removeUselessStrokeAndFill
   - removeViewBox
+  - aggressiveRemoveViewBox
   - cleanupEnableBackground
   - removeHiddenElems
   - removeEmptyText
